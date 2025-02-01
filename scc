@@ -1,0 +1,26 @@
+header {
+    background: linear-gradient(to bottom, rgb(133, 130, 130), rgb(228, 228, 228));
+    border-radius: 15px;
+    
+}
+ img {
+border-radius: 20px;
+height: 200px;
+width: 250px;
+transition: width 0.1s ease-out;
+}
+img:hover {
+width: 0.1px;
+}
+h24 {
+    text-shadow: 2px 2px 0 aqua;
+}
+main {
+    background: linear-gradient(to bottom, rgb(133, 130, 130), white);
+}
+.legenda2005{
+    color: gray;
+}
+footer p {
+    color: white;
+}
